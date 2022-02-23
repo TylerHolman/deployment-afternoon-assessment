@@ -1,26 +1,35 @@
 *{
   font-family: "monolisa", monospace;
 }
-
+style{
+    position: fixed;
+}
 body{
-    background-color: aquamarine;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    
 }
 
 img{
     width: 250px;
 }
-#mainDiv{
+.mainDiv{
     text-align: center; 
     width: 255px;
 }
 h2{
+    
     text-align: center;
+}
+h1{
+    color: rgb(184, 33, 33);
 }
 #header1{
     text-align: center;
+   
 }
 form{
-    outline: auto;
+    /* outline: auto; */
     width: 255px;
-    background-color: beige;
+    background-color: rgb(184, 33, 33);
 }
