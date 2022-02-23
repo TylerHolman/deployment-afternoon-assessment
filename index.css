@@ -1,0 +1,26 @@
+*{
+  font-family: "monolisa", monospace;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+img{
+    width: 250px;
+}
+#mainDiv{
+    text-align: center; 
+    width: 255px;
+}
+h2{
+    text-align: center;
+}
+#header1{
+    text-align: center;
+}
+form{
+    outline: auto;
+    width: 255px;
+    background-color: beige;
+}
